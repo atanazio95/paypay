@@ -73,8 +73,8 @@ Siga estas etapas para configurar e executar o projeto em sua máquina local.
 Clone o repositório do GitHub para sua máquina local usando o seguinte comando:
 
 ```bash
-git clone https://github.com/seu-username/seu-projeto.git
-cd seu-projeto
+git clone https://github.com/atanazio95/paypay.git
+cd paypay
 ```
 2. Instalar Dependências
 Certifique-se de ter o Flutter e o Dart instalados. Se não tiver, siga as  [instruções oficiais de instalação do Flutter](https://flutter.dev/docs/get-started/install)
