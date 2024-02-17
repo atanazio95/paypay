@@ -68,26 +68,6 @@ Siga as instruções na [documentação oficial do Flutter](https://flutter.dev/
 
 Siga estas etapas para configurar e executar o projeto em sua máquina local.
 
- 1. Clonar o Repositório
-
-Clone o repositório do GitHub para sua máquina local usando o seguinte comando:
-
-```bash
-git clone https://github.com/seu-username/seu-projeto.git
-cd seu-projeto
-```
-2. Instale as dependencias
-
-Peço desculpas pela confusão. Se você deseja fechar corretamente um bloco de código em markdown e interromper a formatação com o estilo "bash", basta seguir o mesmo padrão usado para abri-lo, mas desta vez, você deve usar três backticks (`) no início e no final do bloco de código.
-
-Aqui está o exemplo corrigido com a formatação adequada:
-
-markdown
-Copy code
-## Instalação
-
-Siga estas etapas para configurar e executar o projeto em sua máquina local.
-
 ### 1. Clonar o Repositório
 
 Clone o repositório do GitHub para sua máquina local usando o seguinte comando:
@@ -136,6 +116,7 @@ assets/: Armazena recursos estáticos, como imagens, fontes, etc.
 test/: Contém testes automatizados.
 
 pubspec.yaml: Arquivo de configuração do Flutter, onde as dependências e configurações do projeto são especificadas.
+
 
 ### Dependencias do projeto 
 O projeto faz uso das seguintes dependencias principais: 
@@ -202,3 +183,8 @@ Widget build(BuildContext context) {
 }
 
 ```
+## Agilidade 
+### Scrum
+Para fazer a gestão da equipe e suas tarefas, usaremos o Scrum 
+### Quadro
+Para uso do Scrum será usando o Trello com o quadro já criado [clique aqui para ir ate o quadro](https://trello.com/b/p8OjhUQq/paypay)
