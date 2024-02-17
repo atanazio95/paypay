@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:paypay/splashScreen.dart';
+import 'package:paypay/components/splashScreen.dart';
+
 
 void main() {
   runApp(const MaterialApp(
