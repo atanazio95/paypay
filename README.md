@@ -33,7 +33,7 @@ O publico alvo são lojistas e consumidores da região que querem uma forma prat
 
 ### Diferenciais
 
-- O "PayPay" se destaca por sua interface intuitiva, notificações personalizadas e abordagem centrada na experiência do usuário, tornando a gestão de vendas e comprtas uma experiência agradável e eficaz.
+- O "PayPay" se destaca por sua interface intuitiva, notificações personalizadas e abordagem centrada na experiência do usuário, tornando a gestão de vendas e compras uma experiência agradável e eficaz.
 
 
 ## Ambiente e Hardware
@@ -99,6 +99,11 @@ seu-projeto/
 |   |-- main.dart
 |   |-- components/
 |   |-- screens/
+|       |-- meuFluxo
+|           |-- controller
+|           |-- model
+|           |-- view
+|   |   |-- services
 |-- assets/
 |-- test/
 |-- pubspec.yaml
@@ -110,6 +115,15 @@ lib/: Contém o código-fonte principal do aplicativo, incluindo o arquivo main.
 lib/components/: Pasta destinada a componentes reutilizáveis.
 
 lib/screens/: Pasta para as diferentes telas do aplicativo.
+
+lib/screens/meufluxo: Pasta destinada para fluxo de tela
+
+lib/screens/meufluxo/controller: pasta destinada ao controlador do fluxo
+
+lib/screens/meufluxo/model: pasta destinada aos modelos do fluxo
+
+lib/screens/meufluxo/view: pasta destinada as telas do fluxo
+
 
 assets/: Armazena recursos estáticos, como imagens, fontes, etc.
 
