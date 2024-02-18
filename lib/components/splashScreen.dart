@@ -3,7 +3,6 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:paypay/screens/telaInicial/view/telaInicial.dart';
 
-
 class SplashScreen extends StatefulWidget {
   const SplashScreen({Key? key}) : super(key: key);
 
@@ -23,7 +22,7 @@ class _SplashScreenState extends State<SplashScreen> {
         // Navegue para a tela principal após o tempo definido
         Navigator.of(context).pushReplacement(
           MaterialPageRoute(
-            builder: (context) => MyHomePage(title: 'Flutter Demo Home Page'),
+            builder: (context) => MyHomePage(title: 'PayPay Soluções'),
           ),
         );
       },
@@ -39,4 +38,3 @@ class _SplashScreenState extends State<SplashScreen> {
     );
   }
 }
-
